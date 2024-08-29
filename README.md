@@ -12,9 +12,9 @@ Welcome to my first Flutter to-do app! This app is designed to help you manage y
 
 ## Screenshots
 <img src="https://github.com/harsshhan/ToDoApp/blob/main/assets/images/login.png" style="height:300px">
-<img src="https://github.com/harsshhan/blob/main/assets/images/img1.png" style="height:300px">
-<img src="https://github.com/harsshhan/blob/main/assets/images/img2.png" style="height:300px">
-<img src="https://github.com/harsshhan/blob/main/assets/images/user.png" style="height:300px">
+<img src="https://github.com/harsshhan/ToDoApp/blob/main/assets/images/img1.png" style="height:300px">
+<img src="https://github.com/harsshhan/ToDoApp/blob/main/assets/images/img2.png" style="height:300px">
+<img src="https://github.com/harsshhan/ToDoApp/blob/main/assets/images/user.png" style="height:300px">
 
 
 
