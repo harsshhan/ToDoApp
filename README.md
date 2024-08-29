@@ -11,10 +11,10 @@ Welcome to my first Flutter to-do app! This app is designed to help you manage y
 - **Firebase Integration:** All tasks and actions (add, complete, delete) are securely stored and synchronized with Firebase Firestore.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/images/login" style="height:300px">
-<img src="https://github.com/user-attachments/assets/images/img1" style="height:300px">
-<img src="https://github.com/user-attachments/assets/images/img2" style="height:300px">
-<img src="https://github.com/user-attachments/assets/images/user" style="height:300px">
+<img src="https://github.com/harsshhan/ToDoApp/blob/main/assets/images/login.png" style="height:300px">
+<img src="https://github.com/user-attachments/blob/main/assets/images/img1.png" style="height:300px">
+<img src="https://github.com/user-attachments/blob/main/assets/images/img2.png" style="height:300px">
+<img src="https://github.com/user-attachments/blob/main/assets/images/user.png" style="height:300px">
 
 
 
